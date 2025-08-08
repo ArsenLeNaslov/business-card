@@ -1,2 +1,2 @@
 # business-card
-Mdn's Business Card advanced CSS project
+Mdn's Business Card CSS project
