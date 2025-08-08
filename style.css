@@ -7,7 +7,7 @@ html {
   font-family: "Zen Dots";
   src: url("/font/ZenDots-Regular.ttf") format("truetype");
   color: white;
-  background-color: black;
+  background-color: rgb(7, 19, 128);
 }
 
 /* Card Setup */
