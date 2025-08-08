@@ -1,0 +1,25 @@
+/* Entire file style */
+body {
+  margin: 0;
+}
+
+html {
+  font-family: "Zen Dots";
+  src: url("/font/ZenDots-Regular.ttf") format("truetype");
+  color: white;
+  background-color: black;
+}
+
+/* Card Setup */
+.card {
+  width: 35em;
+  height: 22em;
+  margin: 5em auto;
+  background-image: url(milky-way-2695569_640.jpg);
+  border: 0.2em solid black;
+  border-radius: 1.5em;
+}
+
+.card h2, .card p {
+  margin: 0;
+}
